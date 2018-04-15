@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		846ECA5C208359F5006CD803 /* TouchDownCircleAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846ECA5B208359F5006CD803 /* TouchDownCircleAnimationViewController.swift */; };
 		84DE1D652081F4AC004B3027 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DE1D642081F4AC004B3027 /* AppDelegate.swift */; };
 		84DE1D672081F4AC004B3027 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DE1D662081F4AC004B3027 /* ViewController.swift */; };
 		84DE1D6A2081F4AC004B3027 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84DE1D682081F4AC004B3027 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		846ECA5B208359F5006CD803 /* TouchDownCircleAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TouchDownCircleAnimationViewController.swift; sourceTree = "<group>"; };
 		84DE1D612081F4AC004B3027 /* Pulse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pulse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84DE1D642081F4AC004B3027 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84DE1D662081F4AC004B3027 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				84DE1D642081F4AC004B3027 /* AppDelegate.swift */,
 				84DE1D662081F4AC004B3027 /* ViewController.swift */,
+				846ECA5B208359F5006CD803 /* TouchDownCircleAnimationViewController.swift */,
 				84DE1D682081F4AC004B3027 /* Main.storyboard */,
 				84DE1D6B2081F4AC004B3027 /* Assets.xcassets */,
 				84DE1D6D2081F4AC004B3027 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				84DE1D772081FB0D004B3027 /* UIColorRandomExtension.swift in Sources */,
 				84DE1D672081F4AC004B3027 /* ViewController.swift in Sources */,
 				84DE1D652081F4AC004B3027 /* AppDelegate.swift in Sources */,
+				846ECA5C208359F5006CD803 /* TouchDownCircleAnimationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +305,7 @@
 				84DE1D752081F4AC004B3027 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
